@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "@types/graphql": "0.12.6",
-    "apollo-utilities": "^1.0.0",
+    "apollo-utilities": "git+https://github.com/hashamhabib/apollo-utilities.git",
     "zen-observable-ts": "git+https://github.com/hashamhabib/zen-observable-ts.git"
   },
   "repository": {
