@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "@types/graphql": "0.12.6",
+    "@types/graphql": "git+https://github.com/hashamhabib/graphql.git",
     "apollo-utilities": "git+https://github.com/hashamhabib/apollo-utilities.git",
     "zen-observable-ts": "git+https://github.com/hashamhabib/zen-observable-ts.git"
   },
